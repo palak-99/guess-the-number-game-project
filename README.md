@@ -2,7 +2,7 @@
 
 Welcome to the Guess the Number Game! This is a fun and interactive game where the computer randomly selects a number within a specified range, and the player has to guess the number. The game provides feedback, telling whether the guess is too high, too low, or correct.
 
-Features
+## Features
 
 Random number generation for each round.
 User-friendly interface with simple prompts and instructions.
