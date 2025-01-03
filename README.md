@@ -5,6 +5,10 @@ Welcome to the Guess the Number Game! This is a fun and interactive game where t
 ## Features
 
 Random number generation for each round. 
+
 User-friendly interface with simple prompts and instructions. 
+
 Feedback after each guess (higher, lower, or correct). 
+
 Option to restart the game after a successful guess.
+
