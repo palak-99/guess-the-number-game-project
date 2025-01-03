@@ -12,3 +12,12 @@ Feedback after each guess (higher, lower, or correct).
 
 Option to restart the game after a successful guess.
 
+## How to Play
+
+The game will ask you to enter a number within a specified range.
+
+Keep guessing the number until you find the correct one.
+
+After each guess, you will receive feedback whether your guess is too high, too low, or correct.
+
+Once you guess correctly, the game will show the number of attempts and give you an option to play again.
